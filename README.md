@@ -1,4 +1,4 @@
-# 📌 2019 2nd Capstone-Design
+# 📌 2019-2 Capstone-Design
 
 <img src="https://user-images.githubusercontent.com/44025989/124956721-3ae62200-e053-11eb-9d9b-fad02213f127.gif" width="40%" height="30%" title="" alt="Dipex"></img><br/>
 
