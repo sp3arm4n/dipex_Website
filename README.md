@@ -1,6 +1,6 @@
 # 2019 2nd Capstone-Design
 
-<img src="https://github.com/luckyboxx/dipex_Website/FrontEnd_ReactJS/src/images/logo.gif?raw=true" width="40%" height="30%" title="" alt="Dipex"></img><br/>
+<img src="https://user-images.githubusercontent.com/44025989/124956721-3ae62200-e053-11eb-9d9b-fad02213f127.gif" width="40%" height="30%" title="" alt="Dipex"></img><br/>
 
 비디오 플레이어를 포함한 간단한 웹 페이지 제작<br/>
 스크립트를 포함한 페이지
